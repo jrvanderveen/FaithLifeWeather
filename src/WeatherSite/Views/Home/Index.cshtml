@@ -1,7 +1,11 @@
-﻿@{
+﻿@model WeatherSite.Models.WeatherViewModel
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="container">
     <h1>The Weather</h1>
+    <div>City: @Model.City</div>
+    <div>Temperature: @Model.Temperature</div>
+    <div>Conditions: @Model.Description</div>
 </div>
