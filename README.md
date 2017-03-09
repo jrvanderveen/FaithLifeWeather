@@ -4,7 +4,7 @@ See the [work description](docs/WorkDescription.md).
 
 ## Build
 
-This project requires [.NET Core 1.1 SDK](https://www.microsoft.com/net/download/core#/current) and [.NET Core SDK 1.0 Preview 3](https://github.com/dotnet/core/blob/master/release-notes/preview3-download.md).
+This project requires [.NET Core 1.1.1 with SDK 1.0.1](https://www.microsoft.com/net/download/core).
 Build with Visual Studio 2017 or `dotnet`.
 
 ```
