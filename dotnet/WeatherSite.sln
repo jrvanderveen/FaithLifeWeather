@@ -7,13 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C69A40EB-C82
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherSite", "src\WeatherSite\WeatherSite.csproj", "{878F55B6-6BDD-4C99-BE5A-FEA97019C268}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D07DA5DD-8CC6-4715-B78E-992FFD721DD7}"
-	ProjectSection(SolutionItems) = preProject
-		docs\rainy.png = docs\rainy.png
-		docs\sunny.png = docs\sunny.png
-		docs\WorkDescription.md = docs\WorkDescription.md
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{656EA6A6-7B7D-415D-8B5C-64F6A1F02F1C}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
