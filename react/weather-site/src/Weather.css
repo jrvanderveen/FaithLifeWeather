@@ -1,0 +1,19 @@
+.body-content {
+    padding-top: 10px;
+    width: 90%;
+}
+.div-content{
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+}
+.temperature{
+  margin-top: -10px;
+  margin-left: -13px;
+}
+.img{
+    width: 40%;
+}
+.bold{
+  font-weight: bold;
+}
