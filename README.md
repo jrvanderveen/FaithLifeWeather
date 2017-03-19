@@ -17,5 +17,6 @@ I was not sure whether to follow the template for graphical formating or the ima
 I have implementations for both but decided to post the one based on the image.
 
 In the email I was asked about how long the assignment took me:
+It took about an hour to get set up with dotnet, yarn, Node 7+ and to re-familiarize with ReactJs. I spent around 3 more hours on implementing the assignment and then around another hour to do the bonus.
 
-It took about an hour to get set up with dotnet, yarn, Node 7+ and to re-familiarize with ReactJs. I spent around 3 more hours on implementing the assignment and then around another hour to do the bonus. 
+I just wanted to thank you again for giving me the opportunity and for considering me.  I hope I was a good guinea pig.  I really liked this style of interviewing and thought the assignment was reasonable and well put together.
