@@ -12,6 +12,7 @@ See [React instructions](react/weather-site/README.md).
 
 Johan van der Veen
 Developers notes:
+requires an npm install 
 
 I was not sure whether to follow the template for graphical formating or the images in the docs folder.
 I have implementations for both but decided to post the one based on the image.
